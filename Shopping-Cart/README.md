@@ -30,5 +30,3 @@ We also need to install these additional packages:
 npm start
 ```
 The application will start automatically in your browser on http://localhost:3000
-
-That's it! :D 
