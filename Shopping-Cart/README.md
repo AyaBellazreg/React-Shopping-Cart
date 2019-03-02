@@ -21,12 +21,6 @@ This simple application prototype shows how we can use React and Redux to build 
 ```bash
 npm install
 ```
-We also need to install these additional packages:
-
-```bash
- npm install react-router-dom
- npm install redux react-redux
- ```
  ### Start the React App
  Excute the following command: 
 ```bash
